@@ -1,0 +1,24 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchbar {
+  width: 60%;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+.sbtn {
+  margin: 10px;
+  padding: 10px 25px;
+  border-radius: 20px;
+  background-color: #0099ff;
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+}

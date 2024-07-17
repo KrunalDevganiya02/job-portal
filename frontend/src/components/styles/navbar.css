@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60px;
+}
+
+.logo {
+  font-size: xx-large;
+}
+
+.button {
+}
+
+.navbtn {
+  margin: 10px;
+  padding: 5px 15px;
+  border-radius: 10px;
+  font-size: large;
+}
+
+.btn1 {
+  background-color: rgba(128, 128, 128, 0.3);
+  color: black;
+}
+
+.btn2 {
+  background-color: #0099ff;
+  color: white;
+}
